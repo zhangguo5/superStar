@@ -1,0 +1,35 @@
+{
+    "name": "superStar",
+    "title": "jQuery superStar",
+    "description": "jQuery plugin for HTML Element.",
+    "keywords": [
+        "super",
+        "star",
+        "rating"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "South IT College class NO1 of FE",
+        "url": "https://github.com/zhangguo5/superStar/blob/master/AUTHORS.txt"
+    },
+    "maintainers": [
+        {
+            "name": "South IT College class NO1 of UED",
+            "email": "2676656856@qq.com",
+            "url": "http://best.cnblogs.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "bugs": "https://github.com/zhangguo5/superStar/issues",
+    "homepage": "https://github.com/zhangguo5/superStar",
+    "docs": "https://github.com/zhangguo5/superStar",
+    "download": "https://github.com/zhangguo5/superStar/tree/master/dest",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
